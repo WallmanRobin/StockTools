@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="67ed460b-acf5-485a-9c00-6d50a80832c5" name="centos_home" url="http://192.168.50.168">
+        <fileTransfer host="192.168.50.168" port="22" rootFolder="/home/zouqiubin/python/StockTools" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d14a77ab-847d-4d3b-a808-ef37ec5caa37" name="centos_remote" url="http://www.zqb123.cn">
+        <fileTransfer host="www.zqb123.cn" port="20022" rootFolder="/home/zouqiubin/python/StockTools" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="20022" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4b95e63-3afd-4788-8248-9a5a811078df" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/StockTools$Runner.coverage" NAME="Runner Coverage Results" MODIFIED="1580795620863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/StockTools$datetime.coverage" NAME="datetime Coverage Results" MODIFIED="1578461407834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/st/util" />
+    <SUITE FILE_PATH="coverage/StockTools$StgHnd__1_.coverage" NAME="StgHnd (1) Coverage Results" MODIFIED="1578476722587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/st/etl/tushare" />
+    <SUITE FILE_PATH="coverage/StockTools$ETLHnd.coverage" NAME="ETLHnd Coverage Results" MODIFIED="1578474951836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/st/etl/tushare" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>start_date</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>begin_date</replace>
+    </replaceStrings>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="130" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectId" id="1VrcBsYbOHw64D09AgubigmO0hk" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RestWS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OneDrive\Development\Python\StockTools\org\st" />
+      <recent name="C:\OneDrive\Development\Python\StockTools\org\st\util\db\data" />
+      <recent name="C:\OneDrive\Development\Python\StockTools\org\st\util\db" />
+      <recent name="C:\OneDrive\Development\Python\  -+" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OneDrive\Development\Python\StockTools" />
+      <recent name="C:\OneDrive\Development\Python\StockTools\org\st\util\db\handler" />
+      <recent name="C:\OneDrive\Development\Python\StockTools\org\st\data" />
+      <recent name="C:\OneDrive\Development\Python\StockTools\org\st\data\util" />
+      <recent name="C:\OneDrive\Development\Python\StockTools\org\st\util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Runner">
+    <configuration name="ETLData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="StockTools" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/org/st/etl/tushare" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/org/st/etl/tushare/ETLData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ETLHnd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="StockTools" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/org/st/etl/tushare" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/org/st/etl/tushare/ETLHnd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Runner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="StockTools" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Runner.py" />
+      <option name="PARAMETERS" value="20200209 -e 20200210 -p always" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StgHnd (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="StockTools" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/org/st/etl/tushare" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/org/st/etl/tushare/StgHnd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="datetime" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="StockTools" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/org/st/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/org/st/util/datetime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.datetime" />
+      <item itemvalue="Python.ETLData" />
+      <item itemvalue="Python.ETLHnd" />
+      <item itemvalue="Python.Runner" />
+      <item itemvalue="Python.StgHnd (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Runner" />
+        <item itemvalue="Python.StgHnd (1)" />
+        <item itemvalue="Python.datetime" />
+        <item itemvalue="Python.ETLHnd" />
+        <item itemvalue="Python.ETLData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4b95e63-3afd-4788-8248-9a5a811078df" name="Default Changelist" comment="" />
+      <created>1577669532308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577669532308</updated>
+      <workItem from="1577669535368" duration="264000" />
+      <workItem from="1577670841227" duration="1837000" />
+      <workItem from="1578014523665" duration="1311000" />
+      <workItem from="1578038518409" duration="28892000" />
+      <workItem from="1578109624849" duration="1172000" />
+      <workItem from="1578110809855" duration="2489000" />
+      <workItem from="1578121962251" duration="9231000" />
+      <workItem from="1578133835264" duration="25753000" />
+      <workItem from="1578280543709" duration="13510000" />
+      <workItem from="1578308791488" duration="8838000" />
+      <workItem from="1578328484390" duration="4550000" />
+      <workItem from="1578360594440" duration="6665000" />
+      <workItem from="1578367866527" duration="4829000" />
+      <workItem from="1578377736117" duration="1850000" />
+      <workItem from="1578403116353" duration="696000" />
+      <workItem from="1578447669398" duration="5954000" />
+      <workItem from="1578461147693" duration="11334000" />
+      <workItem from="1578619906767" duration="1281000" />
+      <workItem from="1578666720047" duration="1955000" />
+      <workItem from="1578715854702" duration="12000" />
+      <workItem from="1578820025910" duration="18353000" />
+      <workItem from="1578878843293" duration="2263000" />
+      <workItem from="1578883447140" duration="1197000" />
+      <workItem from="1578917376416" duration="4134000" />
+      <workItem from="1578963659065" duration="2015000" />
+      <workItem from="1578966864034" duration="367000" />
+      <workItem from="1579087596971" duration="26029000" />
+      <workItem from="1579183403139" duration="823000" />
+      <workItem from="1579342844028" duration="2516000" />
+      <workItem from="1579617735203" duration="182000" />
+      <workItem from="1580644288565" duration="488000" />
+      <workItem from="1580652027656" duration="1353000" />
+      <workItem from="1580731050153" duration="2262000" />
+      <workItem from="1580738330781" duration="5381000" />
+      <workItem from="1580784361393" duration="512000" />
+      <workItem from="1580788294452" duration="3468000" />
+      <workItem from="1580830157524" duration="10000" />
+      <workItem from="1581150803059" duration="601000" />
+      <workItem from="1581258351731" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/StockTools$ETLHnd.coverage" NAME="ETLHnd Coverage Results" MODIFIED="1579090361724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/st/etl/tushare" />
+    <SUITE FILE_PATH="coverage/StockTools$datetime.coverage" NAME="datetime Coverage Results" MODIFIED="1579092220873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/st/util" />
+    <SUITE FILE_PATH="coverage/StockTools$StgHnd.coverage" NAME="StgHnd Coverage Results" MODIFIED="1578332394513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/st/imp/tushare" />
+    <SUITE FILE_PATH="coverage/StockTools$impData__1_.coverage" NAME="impData (1) Coverage Results" MODIFIED="1578309169432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/st/imp/tushare" />
+    <SUITE FILE_PATH="coverage/StockTools$StgHnd__1_.coverage" NAME="StgHnd (1) Coverage Results" MODIFIED="1579104271371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/st/etl/tushare" />
+    <SUITE FILE_PATH="coverage/StockTools$impHnd.coverage" NAME="impHnd Coverage Results" MODIFIED="1578052431209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/st/import/tushare" />
+    <SUITE FILE_PATH="coverage/StockTools$test.coverage" NAME="test Coverage Results" MODIFIED="1578225381305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/StockTools$impData.coverage" NAME="impData Coverage Results" MODIFIED="1578051372934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/st/import/tushare" />
+    <SUITE FILE_PATH="coverage/StockTools$ETLData.coverage" NAME="ETLData Coverage Results" MODIFIED="1579020474655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/st/etl/tushare" />
+    <SUITE FILE_PATH="coverage/StockTools$Runner.coverage" NAME="Runner Coverage Results" MODIFIED="1580742435387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/StockTools$impHnd__1_.coverage" NAME="impHnd (1) Coverage Results" MODIFIED="1578314636759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/org/st/imp/tushare" />
+  </component>
+</project>

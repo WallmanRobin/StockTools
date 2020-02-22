@@ -1,0 +1,32 @@
+{
+  "database": {
+    "stage": {
+      "type": "mysql+pymysql",
+      "user": "root",
+      "password": "zqb1qazXSW@",
+      "host": "localhost",
+      "port": "13306",
+      "name": "stock_stg",
+      "pool_size": 100,
+      "max_overflow": 0,
+      "pool_recycle": 3600,
+      "clone_suffix": "cln"
+    },
+    "seed": {
+      "type": "mysql+pymysql",
+      "user": "root",
+      "password": "zqb1qazXSW@",
+      "host": "localhost",
+      "port": "13306",
+      "name": "stock",
+      "pool_size": 100,
+      "max_overflow": 0,
+      "pool_recycle": 3600,
+      "clone_suffix": "cln"
+    }
+  },
+  "tushare": {
+    "token": "075ac9e16d0cc40f6e47d86e104f19ff92ab57a2ce5ba6a623f7859a",
+    "sleep_time": 60
+  }
+}
