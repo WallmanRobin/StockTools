@@ -11,7 +11,7 @@ portalocker==1.5.2
 PyMySQL==0.9.3
 python-dateutil==2.8.1
 pytz==2019.3
-pywin32==227
+pywin32==301
 requests==2.22.0
 six==1.14.0
 soupsieve==1.9.5
