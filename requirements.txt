@@ -5,7 +5,7 @@ chardet==3.0.4
 concurrent-log-handler==0.9.16
 idna==2.8
 lxml==4.5.0
-numpy==1.18.1
+numpy==1.22.0
 pandas==1.0.1
 portalocker==1.5.2
 PyMySQL==0.9.3
